@@ -1,0 +1,10 @@
+3. phone number empty maka button disable. [done]
+1. input phone number tanpa check syarat ketentuan. maka button disable.
+2. input phone number dengan cek syarat ketentuan. maka button enabled.
+
+4. phone number input diawali angka selain 8 atau dengan angka 0 di depan. 
+   maka muncul toast error message.
+5. input valid phone number dengan ceklist syarat ketentuan. 
+   maka redirect ke OTP, dan verif info phone number yang tertulis.
+6. inputkan OTP yang tidak valid, maka akan muncul toast message.
+7. tunggu sampai 60 detik, maka button resend otp akan aktif, tombol lagi, maka kode baru akan terkirim.
